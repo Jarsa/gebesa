@@ -1,0 +1,4 @@
+[submodule "addons-grupo-salmon"]
+	path = addons-grupo-salmon
+	url = git@192.99.14.85:gebesa/addons-grupo-salmon.git
+	branch = 12.0
