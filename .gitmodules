@@ -2,3 +2,55 @@
 	path = addons-grupo-salmon
 	url = git@192.99.14.85:gebesa/addons-grupo-salmon.git
 	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = git@github.com:OCA/e-commerce.git
+	branch = 12.0
+[submodule "geospatial"]
+	path = geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 12.0
+[submodule "knowledge"]
+	path = knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 12.0
+[submodule "maintenance"]
+	path = maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 12.0
+[submodule "management-system"]
+	path = management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 12.0
+[submodule "multi-company"]
+	path = multi-company
+	url = git@github.com:OCA/multi-company.git
+	branch = 12.0
+[submodule "operating-unit"]
+	path = operating-unit
+	url = git@github.com:OCA/operating-unit.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 12.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 12.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 12.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 12.0
