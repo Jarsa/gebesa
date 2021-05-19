@@ -50,10 +50,6 @@
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 12.0
-[submodule "cfdi32"]
-	path = cfdi32
-	url = git@192.99.14.85:gebesa/cfdi32.git
-	branch = 12.0
 [submodule "pentahoodoo"]
 	path = pentahoodoo
 	url = git@192.99.14.85:gebesa/pentahoodoo.git
