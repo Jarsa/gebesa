@@ -58,10 +58,6 @@
 	path = scrummergebesa
 	url = git@gitlab.e-fector.com:gebesa/scrummergebesa.git
 	branch = 12.0
-[submodule "forkterceros"]
-	path = forkterceros
-	url = git@gitlab.e-fector.com:gebesa/forkterceros.git
-	branch = 12.0
 [submodule "server-backend"]
 	path = server-backend
 	url = git@github.com:OCA/server-backend.git
