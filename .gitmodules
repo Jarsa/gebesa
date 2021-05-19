@@ -50,10 +50,6 @@
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 12.0
-[submodule "pentahoodoo"]
-	path = pentahoodoo
-	url = git@192.99.14.85:gebesa/pentahoodoo.git
-	branch = 12.0
 [submodule "scrummergebesa"]
 	path = scrummergebesa
 	url = git@gitlab.e-fector.com:gebesa/scrummergebesa.git
